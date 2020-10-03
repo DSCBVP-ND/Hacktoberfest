@@ -19,14 +19,13 @@ Register yourself for Hacktoberfest.
 
 [https://hacktoberfest.digitalocean.com/register](https://hacktoberfest.digitalocean.com/register)
 
-<!-- ![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png) -->
+![image](https://user-images.githubusercontent.com/47495666/94985504-02ba2c00-0575-11eb-94ab-f75f54168590.png)
 
-![Screenshot (24)](https://user-images.githubusercontent.com/31778302/65990265-e5a5d580-e4a8-11e9-8768-ca63fc4b33d0.png)
 
 
 ## Step 3 
 This is the link of the repository that you guys will be contributing to.
-https://github.com/DSC-BVP/Hacktoberfest/
+https://github.com/DSCBVP-ND/Hacktoberfest
 
 ![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583176-10b14100-ca70-11e8-9807-8dfa79167216.png)
 
@@ -34,12 +33,13 @@ https://github.com/DSC-BVP/Hacktoberfest/
 ## Step 4 
 Star this repository
 
-![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583188-5bcb5400-ca70-11e8-944e-15acfe5f5630.png)
+![image](https://user-images.githubusercontent.com/47495666/94985603-c1764c00-0575-11eb-9647-8971239612a6.png)
+
 
 ## Step 5 
 Fork this repository on your profile
 
-![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583188-5bcb5400-ca70-11e8-944e-15acfe5f5630.png)
+![image](https://user-images.githubusercontent.com/47495666/94985603-c1764c00-0575-11eb-9647-8971239612a6.png)
 
 
 ## Step 6 
@@ -70,7 +70,7 @@ Add your name in contributors.md file in this format
 
 ## Step 8
 ```bash
-$ git remote add upstream https://github.com/DSC-BVP/Hacktoberfest/
+$ git remote add upstream https://github.com/DSCBVP-ND/Hacktoberfest
 ```
 
 ![screenshot from 2018-10-07 20-22-03](https://user-images.githubusercontent.com/23727056/46583237-19564700-ca71-11e8-9e33-535294216c92.png)
