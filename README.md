@@ -24,11 +24,10 @@ Register yourself for Hacktoberfest.
 
 
 ## Step 3 
-This is the link of the repository that you guys will be contributing to.
+This is the link of the repository that you guys will be contributing to:
 https://github.com/DSCBVP-ND/Hacktoberfest
 
-![image](https://user-images.githubusercontent.com/47495666/94986896-0f904d00-0580-11eb-81f5-6a716eaaf12b.png)
-
+![img1](https://user-images.githubusercontent.com/43072879/95001248-c7a41100-05e5-11eb-9875-755ce7587934.PNG)
 
 ## Step 4 
 Star this repository
@@ -50,13 +49,13 @@ $ git clone (paste the url obtained from clicking on "Clone or download" option 
 $ cd Hacktoberfest
 ```
 
-![screenshot from 2018-10-07 20-20-18](https://user-images.githubusercontent.com/23727056/46583205-92a16a00-ca70-11e8-8437-5455cd21912b.png)
+![img2](https://user-images.githubusercontent.com/43072879/95001251-cf63b580-05e5-11eb-9ce7-50d46c37cccb.PNG)
 
 
 ## Step 7 
 Add your name in contributors.md file in this format
 
-![image](https://user-images.githubusercontent.com/47495666/94989847-41f87500-0595-11eb-9f86-1c076d6a07fd.png)
+![img3](https://user-images.githubusercontent.com/43072879/95001254-d4286980-05e5-11eb-83ce-91da455be4f1.PNG)
 
 
 1. Put your name 
@@ -65,14 +64,14 @@ Add your name in contributors.md file in this format
 
 <!-- ![screenshot from 2018-10-07 20-21-36](https://user-images.githubusercontent.com/23727056/46583221-cbd9da00-ca70-11e8-8b99-088b20ea4101.png) -->
 
-![Screenshot (26)](https://user-images.githubusercontent.com/31778302/66140933-9387c000-e620-11e9-82d4-8afc0a7e0d39.png)
+![img4](https://user-images.githubusercontent.com/43072879/95001259-dd193b00-05e5-11eb-86f8-d1523478debe.PNG)
 
 ## Step 8
 ```bash
 $ git remote add upstream https://github.com/DSCBVP-ND/Hacktoberfest
 ```
 
-![screenshot from 2018-10-07 20-22-03](https://user-images.githubusercontent.com/23727056/46583237-19564700-ca71-11e8-9e33-535294216c92.png)
+![img5](https://user-images.githubusercontent.com/43072879/95001263-e2768580-05e5-11eb-873b-bed58bcac8e1.PNG)
 
 
 
@@ -86,17 +85,15 @@ $ git push --set-upstream origin master
 ```
 Then, type your github username and password
 
-![screenshot from 2018-10-07 20-22-46](https://user-images.githubusercontent.com/23727056/46583252-57ec0180-ca71-11e8-80ff-f0b5d612c8c0.png)
-
+![img6](https://user-images.githubusercontent.com/43072879/95001265-e7d3d000-05e5-11eb-9eeb-9429d62e24cb.PNG)
 
 ## Step 10
 Now open the repository which you forked in your account and click on the Compare and Pull Request
 
-![image](https://user-images.githubusercontent.com/47495666/94988030-ee335f00-0587-11eb-8cb9-5c4c889854f8.png)
-
+![img7](https://user-images.githubusercontent.com/43072879/95001241-b2c77d80-05e5-11eb-83eb-8a8ba5d8364d.PNG)
 
 ## Step 11
 Open [dscbvp-nd.github.io/Hacktoberfest](https://dscbvp-nd.github.io/Hacktoberfest/)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
-![image](https://user-images.githubusercontent.com/47495666/94991326-0a42fa80-05a0-11eb-9e2c-78934d832e2a.png)
+![img8](https://user-images.githubusercontent.com/43072879/95001343-97a93d80-05e6-11eb-92e0-bb9a5bd71c84.PNG)
