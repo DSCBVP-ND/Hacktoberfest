@@ -55,10 +55,9 @@ $ cd Hacktoberfest
 
 ## Step 7 
 Add your name in contributors.md file in this format
-<!-- 
-![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png) -->
 
-![Screenshot (30)](https://user-images.githubusercontent.com/31778302/66143935-a355d300-e625-11e9-9a5a-0bbeb90d1bb7.png)
+![image](https://user-images.githubusercontent.com/47495666/94989847-41f87500-0595-11eb-9f86-1c076d6a07fd.png)
+
 
 1. Put your name 
 2. Put your personal message 
@@ -100,4 +99,4 @@ Now open the repository which you forked in your account and click on the Compar
 Open [dscbvp-nd.github.io/Hacktoberfest](https://dscbvp-nd.github.io/Hacktoberfest/)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
-![image](https://user-images.githubusercontent.com/47495666/94987771-8892a300-0586-11eb-98d3-75a6b156cc97.png)
+![image](https://user-images.githubusercontent.com/47495666/94991326-0a42fa80-05a0-11eb-9e2c-78934d832e2a.png)
