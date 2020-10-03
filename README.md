@@ -4,7 +4,7 @@ accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
 Website link on which you will contribute
-https://dsc-bvp.github.io/Hacktoberfest/
+https://dscbvp-nd.github.io/Hacktoberfest/
 
 ## Step 1 
 Create a account on Github
@@ -27,7 +27,7 @@ Register yourself for Hacktoberfest.
 This is the link of the repository that you guys will be contributing to.
 https://github.com/DSCBVP-ND/Hacktoberfest
 
-![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583176-10b14100-ca70-11e8-9807-8dfa79167216.png)
+![image](https://user-images.githubusercontent.com/47495666/94986896-0f904d00-0580-11eb-81f5-6a716eaaf12b.png)
 
 
 ## Step 4 
@@ -93,14 +93,10 @@ Then, type your github username and password
 ## Step 10
 Now open the repository which you forked in your account and click on the Compare and Pull Request
 
-![screenshot from 2018-10-07 20-23-35](https://user-images.githubusercontent.com/23727056/46583255-6a663b00-ca71-11e8-8fc1-10652e0840da.png)
-![screenshot from 2018-10-07 20-23-53](https://user-images.githubusercontent.com/23727056/46583256-6afed180-ca71-11e8-991c-534d642fc6af.png)
 
 
 ## Step 11
-Open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
+Open [dscbvp-nd.github.io/Hacktoberfest](https://dscbvp-nd.github.io/Hacktoberfest/)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
-<!-- ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png) -->
-
-![Screenshot (29)](https://user-images.githubusercontent.com/31778302/66143934-a2bd3c80-e625-11e9-833d-910eff188a71.png)
+![image](https://user-images.githubusercontent.com/47495666/94987771-8892a300-0586-11eb-98d3-75a6b156cc97.png)
