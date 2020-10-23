@@ -21,5 +21,5 @@
 17. [Nathan Smith](https://github.com/the-nathan-smith)
 18. [Sashipraba](https://github.com/SashiPraba)
 19. [Shivam Shekhar](https://github.com/eddges)
-20.[Uwanthi Gunasekera](https://github.com/Uwanthi)
+20. [Uwanthi Gunasekera](https://github.com/Uwanthi)
 21. [Anshika Jain](https://github.com/Anshika-Jain)
